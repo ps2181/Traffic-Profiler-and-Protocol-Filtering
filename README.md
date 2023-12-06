@@ -1,1 +1,3 @@
 # Traffic-Profiler-and-Protocol-Filtering
+
+The Python code analyzes network traffic captured in a PCAP file and creates a detailed profile. It allows users to filter packets by specific protocols (HTTP, DNS, ICMP) and further refine the analysis based on criteria like HTTP methods, DNS query types, and ICMP message types. The code then calculates various statistics about the filtered packets, providing valuable insights into the network activity and potential anomalies. This makes it a powerful tool for network administrators, security analysts, and anyone who wants to understand the communication patterns within a network.
